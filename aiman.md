@@ -4,7 +4,6 @@
 
 *I am interested in Cybersecurity especially* <mark>Digital Forensics</mark>
 
-*I am interested in Cybersecurity especially* <mark>Digital Forensics</mark>
 ~~Strike through~~
 
 [University Website](https://greatermanchester.ac.uk/)
