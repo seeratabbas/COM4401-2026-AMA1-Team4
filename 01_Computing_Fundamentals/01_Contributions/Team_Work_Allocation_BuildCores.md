@@ -29,14 +29,14 @@
 
 R = Responsible · A = Accountable · C = Consulted · I = Informed
 
-| Task | Member 1 | Member 2 | Member 3 | Member 4 |
+| Task | Jimmy | Faris | Seerat | Aiman |
 |------|----------|----------|----------|----------|
-| Administrative Assistant build (BuildCores + peripherals) | | | | |
-| Project Manager build (BuildCores + peripherals) | | | | |
-| Architect / CAD Designer build (BuildCores + peripherals) | | | | |
-| 3D Visualisation Specialist build (BuildCores + peripherals) | | | | |
+| Administrative Assistant build (BuildCores + peripherals) | R | | | |
+| Project Manager build (BuildCores + peripherals) | | R | | |
+| Architect / CAD Designer build (BuildCores + peripherals) | | | R | |
+| 3D Visualisation Specialist build (BuildCores + peripherals) | | | | R |
 | Component justifications (role suitability & value) | | | | |
-| Pricing evidence (screenshots, links, date checked) | | | | |
+| Pricing evidence (screenshots, links, date checked) | R | R | R | R |
 | Combined budget & comparison table | | | | |
 | Final team recommendation | | | | |
 | Ethical / responsible purchasing commentary | | | | |
