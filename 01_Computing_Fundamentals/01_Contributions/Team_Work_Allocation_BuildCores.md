@@ -17,7 +17,7 @@
 | Member | Role / build owned | Qty | Budget each | Workstation level |
 |--------|--------------------|-----|-------------|-------------------|
 | Jimmy | Administrative Assistant | 3 | £850 | Basic office hardware |
-| Faris | Project Manager | 2 | £1,250 | Business workstation |
+| Faris | Project Manager | 2 | £1,300| Business workstation |
 | Seerat | Architect / CAD Designer | 5 | £2,350 | CAD build with dedicated GPU |
 | Aiman | 3D Visualisation Specialist | 2 | £3,600 | High-performance rendering |
 
