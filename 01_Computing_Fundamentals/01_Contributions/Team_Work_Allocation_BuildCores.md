@@ -35,10 +35,10 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 | Project Manager build (BuildCores + peripherals) | | R | | |
 | Architect / CAD Designer build (BuildCores + peripherals) | | | R | |
 | 3D Visualisation Specialist build (BuildCores + peripherals) | | | | R |
-| Component justifications (role suitability & value) | | | | |
+| Component justifications (role suitability & value) | R | R | R | R |
 | Pricing evidence (screenshots, links, date checked) | R | R | R | R |
-| Combined budget & comparison table | | | | |
-| Final team recommendation | | | | |
-| Ethical / responsible purchasing commentary | | | | |
+| Combined budget & comparison table | C | C | R | R |
+| Final team recommendation | R | R | R | R |
+| Ethical / responsible purchasing commentary | R | R | R | R |
 
 > Add or remove a member column for a 3- or 5-person team, and adjust the build rows so every role is owned by someone.
