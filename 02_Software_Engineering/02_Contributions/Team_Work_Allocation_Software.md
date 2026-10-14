@@ -33,14 +33,14 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 |------|----------|----------|----------|----------|
 | Requirements analysis (what the program must do) | C | C | R  | C |
 | IPO chart (Input – Process – Output) | R | R | C | R |
-| Flowchart / pseudocode design | R | C | C | C |
+| Flowchart / pseudocode design | C | R | R | C |
 | Test plan (normal, abnormal, extreme data) | C | R | C | C |
 | Flowgorithm build (variables, input, processing) | I | I | I | R |
 | Flowgorithm build (decisions, loops, output) | I | I | I | R |
-| Validation / error handling | R | C | R | C |
-| Testing against the plan & recording results | C | C | R | R |
-| Deployment notes (how it would be rolled out) | | | | |
-| Ethical / professional considerations write-up | | | | |
-| Final team walkthrough & consistency check | | | | |
+| Validation / error handling | R | C | C | C |
+| Testing against the plan & recording results | R | C | C | C |
+| Deployment notes (how it would be rolled out) | C | C | C | R |
+| Ethical / professional considerations write-up | R | R | R | R |
+| Final team walkthrough & consistency check | R | R | R | R |
 
 > Columns are the team members — replace the headers with names. Add or remove a column for a 3- or 5-person team, and make sure every stage (analysis → design → build → test → deploy) is owned by someone.
