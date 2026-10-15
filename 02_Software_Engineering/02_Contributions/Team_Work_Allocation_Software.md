@@ -35,8 +35,8 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 | IPO chart (Input – Process – Output) | R | R | C | R |
 | Flowchart / pseudocode design | C | R | R | C |
 | Test plan (normal, abnormal, extreme data) | C | R | C | C |
-| Flowgorithm build (variables, input, processing) | I | I | I | R |
-| Flowgorithm build (decisions, loops, output) | I | I | I | R |
+| Flowgorithm build (variables, input, processing) | C | C | C | R |
+| Flowgorithm build (decisions, loops, output) | C | C | C | R |
 | Validation / error handling | R | C | C | C |
 | Testing against the plan & recording results | R | C | C | C |
 | Deployment notes (how it would be rolled out) | C | C | C | R |
