@@ -5,9 +5,9 @@
 
 | | |
 |---|---|
-| **Team name** | |
+| **Team name** | Group 4 |
 | **Repository** | |
-| **How we'll keep in touch** | *(e.g. group chat, weekly check-in)* |
+| **How we'll keep in touch** | group chat and weekly check-in |
 
 ---
 
@@ -15,13 +15,13 @@
 
 | Section / theme | Responsible member(s) | Draft ready by |
 |-----------------|-----------------------|----------------|
-| Section 1: Password hygiene | | |
+| Section 1: Password hygiene | Faris | 14/10/2026 |
 | Section 2: Two-factor authentication | | |
-| Section 3: Phishing recognition | | |
-| Section 4: Safe use of devices | | |
-| Section 5: Public Wi-Fi | | |
-| Introduction & conclusion (whole team) | | |
-| Contents page & reference list (compile last) | | |
+| Section 3: Phishing recognition | Seerat | 14/10/2026 |
+| Section 4: Safe use of devices | Aiman | 15/10/2026 |
+| Section 5: Public Wi-Fi | Aiman | 15/10/2026 |
+| Introduction & conclusion (whole team) | Whole Team | |
+| Contents page & reference list (compile last) | Whole Team | |
 
 > Each theme is one numbered section; everyone contributes to the introduction and conclusion. Each member should write **~700–1,000 words** and use **5+ credible sources** (1+ peer-reviewed academic, 2+ authoritative professional/government).
 
@@ -31,18 +31,18 @@
 
 R = Responsible · A = Accountable · C = Consulted · I = Informed
 
-| Task | M1 | M2 | M3 | M4 |
+| Task | Jimmy | Faris | Seerat | Aiman |
 |------|----|----|----|----|
-| Password hygiene section | | | | |
-| Two-factor authentication (2FA) section | | | | |
-| Phishing recognition section | | | | |
-| Safe use of devices section | | | | |
-| Public Wi-Fi section | | | | |
+| Password hygiene section | I | R | I | I |
+| Two-factor authentication (2FA) section | R | I | I | I |
+| Phishing recognition section | I | I | R | I |
+| Safe use of devices section | I | I | I | R |
+| Public Wi-Fi section | I | I | I | R |
 | Introduction (why it matters) | | | | |
 | Conclusion (practical takeaways) | | | | |
-| Fact-check: trace every statistic to origin | | | | |
+| Fact-check: trace every statistic to origin | R | R | R | R |
 | Merge sections into one consistent style/tone | | | | |
-| Alphabetised reference list (Harvard) | | | | |
+| Alphabetised reference list (Harvard) | R | R | R | R |
 | Contents page & final formatting | | | | |
 
 > Columns M1–M4 are the team members — replace the headers with names.
