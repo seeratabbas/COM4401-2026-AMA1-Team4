@@ -20,8 +20,8 @@
 | Section 3: Phishing recognition | Seerat | 14/10/2026 |
 | Section 4: Safe use of devices | Aiman | 15/10/2026 |
 | Section 5: Public Wi-Fi | Aiman | 15/10/2026 |
-| Introduction & conclusion (whole team) | Whole Team | |
-| Contents page & reference list (compile last) | Whole Team | |
+| Introduction & conclusion (whole team) | Whole Team |21/10/2026 |
+| Contents page & reference list (compile last) | Whole Team |21/10/2026 |
 
 > Each theme is one numbered section; everyone contributes to the introduction and conclusion. Each member should write **~700–1,000 words** and use **5+ credible sources** (1+ peer-reviewed academic, 2+ authoritative professional/government).
 
