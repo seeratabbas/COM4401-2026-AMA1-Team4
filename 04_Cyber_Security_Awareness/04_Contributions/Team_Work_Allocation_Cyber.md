@@ -16,7 +16,7 @@
 | Section / theme | Responsible member(s) | Draft ready by |
 |-----------------|-----------------------|----------------|
 | Section 1: Password hygiene | Faris | 14/10/2026 |
-| Section 2: Two-factor authentication | | |
+| Section 2: Two-factor authentication |Jimmy |16/10/2026 |
 | Section 3: Phishing recognition | Seerat | 14/10/2026 |
 | Section 4: Safe use of devices | Aiman | 15/10/2026 |
 | Section 5: Public Wi-Fi | Aiman | 15/10/2026 |
