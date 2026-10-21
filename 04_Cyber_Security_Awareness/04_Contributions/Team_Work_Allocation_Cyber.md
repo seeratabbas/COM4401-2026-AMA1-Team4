@@ -38,11 +38,11 @@ R = Responsible · A = Accountable · C = Consulted · I = Informed
 | Phishing recognition section | I | I | R | I |
 | Safe use of devices section | I | I | I | R |
 | Public Wi-Fi section | I | I | I | R |
-| Introduction (why it matters) | | | | |
-| Conclusion (practical takeaways) | | | | |
+| Introduction (why it matters) | | |R | |
+| Conclusion (practical takeaways) | | |R | |
 | Fact-check: trace every statistic to origin | R | R | R | R |
 | Merge sections into one consistent style/tone | | | | |
 | Alphabetised reference list (Harvard) | R | R | R | R |
-| Contents page & final formatting | | | | |
+| Contents page & final formatting | | |R |R |
 
 > Columns M1–M4 are the team members — replace the headers with names.
