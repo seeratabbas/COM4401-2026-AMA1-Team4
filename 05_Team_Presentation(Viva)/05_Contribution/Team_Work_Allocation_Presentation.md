@@ -5,7 +5,7 @@
 
 | | |
 |---|---|
-| **Team name** | |
+| **Team name** | Team 4 |
 | **Repository** | |
 | **Launch (prep starts)** | Week 4 |
 | **Delivery (live)** | Week 5 |
@@ -17,11 +17,11 @@
 
 | Member | Section owned | What they'll present |
 |--------|---------------|----------------------|
-| | MP1 — Computing | Strongest evidence from the computing project |
-| | MP2 — Software Engineering | Strongest evidence from the software project |
-| | MP3 — Networking | Strongest evidence from the networking project |
-| | MP4 — Cyber-Security | Strongest evidence from the cyber-security project |
-| | Intro, live demo & conclusion (whole team) | Opening, the live demonstration and the reflection |
+| Faris | MP1 — Computing | Strongest evidence from the computing project |
+| Aiman | MP2 — Software Engineering | Strongest evidence from the software project |
+| Jimmy | MP3 — Networking | Strongest evidence from the networking project |
+| Seerat | MP4 — Cyber-Security | Strongest evidence from the cyber-security project |
+| Whole Team | Intro, live demo & conclusion (whole team) | Opening, the live demonstration and the reflection |
 
 > Every member must present a meaningful part — a member who does not present (without an approved reason) cannot pass this component. Introduction, live demo and conclusion are shared. Pick the single strongest piece of evidence per project rather than re-presenting the whole report. Aim for **15–20 minutes** with a sensible split across the team.
 
